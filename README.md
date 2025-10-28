@@ -9,3 +9,4 @@
 | Keterangan                             | Screenshot                                                         |
 | :------------------------------------- | :----------------------------------------------------------------: |
 | POST | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f286822-bab0-4946-9655-c63e626d2e33" /> |
+| PUT | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8813b3f7-1fb5-4077-b1c6-dc64a561765a" /> |
